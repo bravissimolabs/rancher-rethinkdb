@@ -1,6 +1,6 @@
-FROM rethinkdb:2.3
+FROM rethinkdb:2.3.6
 
-MAINTAINER Rory Hunter <roryhunter2@gmail.com>
+MAINTAINER Luke Bennett <luke@lukebennett.com>
 
 COPY giddyup /usr/bin/
 
